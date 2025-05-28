@@ -1,0 +1,137 @@
+# CanTake Project - Git Ignore File
+
+# ========== Frontend (React) ==========
+# Node modules
+FrontEnd/node_modules/
+FrontEnd/npm-debug.log*
+FrontEnd/yarn-debug.log*
+FrontEnd/yarn-error.log*
+FrontEnd/pnpm-debug.log*
+FrontEnd/lerna-debug.log*
+
+# Build outputs
+FrontEnd/build/
+FrontEnd/dist/
+FrontEnd/dist-ssr/
+FrontEnd/*.local
+
+# Environment files
+FrontEnd/.env
+FrontEnd/.env.local
+FrontEnd/.env.development.local
+FrontEnd/.env.test.local
+FrontEnd/.env.production.local
+
+# ========== Backend (PHP) ==========
+# PHP specific
+*.log
+error_log
+access_log
+
+# Database config (jika ada file config sensitif)
+BackEnd/config/.env
+BackEnd/config/config.local.php
+
+# Upload files (opsional - bisa di-include atau exclude)
+# BackEnd/uploads/
+# FrontEnd/public/assets/MainAssets/Upload/
+
+# ========== Database ==========
+# Database dumps
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+
+# ========== XAMPP/Server ==========
+# XAMPP logs
+xampp/
+htdocs/
+*.htaccess.backup
+
+# ========== IDE/Editor ==========
+# VSCode
+.vscode/
+!.vscode/extensions.json
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# ========== OS Generated ==========
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ========== Temporary Files ==========
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ========== Backup Files ==========
+*.bak
+*.backup
+*.old
+*.orig
+
+# ========== Compressed Files ==========
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ========== Logs ==========
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ========== Cache ==========
+.cache/
+.npm/
+.yarn/
+.pnpm/

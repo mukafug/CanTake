@@ -1,0 +1,263 @@
+# Daftar Gambar Menu dan Thumbnail Merchant
+
+File ini berisi daftar lengkap semua gambar menu dari 13 toko/merchant yang ada di direktori FrontEnd/src/assets/[1]Assets/. Untuk setiap toko, kami juga merekomendasikan satu gambar yang cocok untuk digunakan sebagai thumbnail merchant.
+
+## Ringkasan Thumbnail Merchant yang Direkomendasikan:
+1. Nasi Bakar Ibu Neni: FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Campur.png
+2. DNE Kitchen: FrontEnd/src/assets/[1]Assets/DNE Kitchen/Paket_Nasi_Pecel_Ayam.png
+3. Soto Mie Rempah Bang Dede: FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Soto_Mie_Rempah_Full_Daging.png
+4. Pina Coffee: FrontEnd/src/assets/[1]Assets/Pina Coffee/Ice_Chocolate.png
+5. Bakso Echo Malang: FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Bakso_Echo_Malang_(Isi_9).jpg
+6. NasGor 962: FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Spesial.jpg
+7. Kebuli Pawonenur: FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Chicken_Katsu.png
+8. Kedai Bunda Rachma: FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Rawon_ Daging_Telur.png
+9. Mie Ayam dan Pasta Berkah: FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Bakso_Pangsit.png
+10. Pawon Bu Ina Kantin PNJ: FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Ayam_Geprek.png
+11. Taichan Mama Ika: FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Taichan_+_Nasi___Lontong.png
+12. Aneka Juice: FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Jambu.png
+13. Es Teh Poci: FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Thai_Tea.png
+
+## 1. Nasi Bakar Ibu Neni
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Ayam_Goreng.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Ayam_Suwir.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Campur.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Cumi.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Teri.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Tongkol_Suwir.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Nasi_Bakarin_Besar.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Sate_Ati_Ampela.png
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/20250417_141325.jpg
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/20250417_141331.jpg
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/20250417_141338.jpg
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/20250417_141350.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Nasi Bakar Ibu Neni/Bakarin_Campur.png (Menampilkan menu signature)
+
+## 2. DNE Kitchen
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Nasi_Uduk.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Nasi_Uduk_Telor_Balado.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Paket_Nasi_Pecel.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Paket_Nasi_Pecel_Ayam.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Paket_Nasi_Pecel_Lele.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Paket_Nasi_Pecel_Telor.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Telor_Puyuh.png
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/20250417_141655.jpg
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/20250417_141715.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/DNE Kitchen/Paket_Nasi_Pecel_Ayam.png (Menu lengkap yang menarik)
+
+## 3. Soto Mie Rempah Bang Dede
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Nasi _Putih.png
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Risol.png
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Soto_Mie_Rempah.png
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Soto_Mie_Rempah_+_Nasi.png
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Soto_Mie_Rempah_Full_Daging.png
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/20250417_141246.jpg
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/20250417_141254.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Soto Mie Rempah Bang Dede/Soto_Mie_Rempah_Full_Daging.png (Menu utama dengan tampilan terbaik)
+
+## 4. Pina Coffee
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Americano(1).png
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Americano.png
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Cappucino.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Ice_Chocolate.png
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Ice_Matcha.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Ice_Milo.png
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Java_Tea_Selasih.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Kopi_Susu_Gula_Aren.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Milo_Dino.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Mocha_Latte.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Nutrisari.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Pop_Ice.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Teh_Tarik.png
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/20250417_141042.jpg
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/20250417_141056.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Pina Coffee/Ice_Chocolate.png (Minuman yang menarik dengan tampilan jelas)
+
+## 5. Bakso Echo Malang
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Bakso_Echo_Malang_(Isi_7).jpg
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Bakso_Echo_Malang_(Isi_9).jpg
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Bakso_Goreng.jpg
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Topping_Kerupuk.jpg
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Topping_Mie.jpg
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/20250417_141232.jpg
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/20250417_141236.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Bakso Echo Malang/Bakso_Echo_Malang_(Isi_9).jpg (Menu utama dengan porsi terbesar)
+
+## 6. NasGor 962
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Bihun_Goreng___Kuah.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Kwenastel.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Kwetiau_Goreng___Rebus.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Mie_Goreng___Rebus(1).jpeg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Mie_Goreng___Rebus.jpeg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Mimastel.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Capcay.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Fuyunghai.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Ati.png
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Biasa.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Gila.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Omelet.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Spesial.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Teri(1).jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Teri.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/simpan.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/20250417_140624.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/20250417_140649.jpg
+- FrontEnd/src/assets/[1]Assets/NasGor 962/20250417_140656.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/NasGor 962/Nasi_Goreng_Spesial.jpg (Menu signature dengan tampilan terbaik)
+
+## 7. Kebuli Pawonenur
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Ayam_Goreng.png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Chicken_Katsu.png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Sosis_Double.png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Telur.png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Telur_+_Sosis.png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Nasi_Kebuli_Beef_Patty_(Double).png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Nasi_Kebuli_Beef_Patty_(Single).png
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/20250417_141542.jpg
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/20250417_141549.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Kebuli Pawonenur/Kebuli_Chicken_Katsu.png (Menu premium dengan tampilan menarik)
+
+## 8. Kedai Bunda Rachma
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Nasi_Putih.png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Nasi_Soto_Ayam_Boyolali_(Nasi_Soto+Telur).png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Rawon_ Daging_Telur.png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Rawon_Daging_(Rawon_saja).png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Soto_ Ayam_Koya_ (Nasi Soto + Telur).png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Soto_Ayam_Boyolali.png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Soto_Ayam_Koya (Soto_Saja).png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Telur_Asin.jpg
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Telur_Rebus.png
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/20250417_141458.jpg
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/20250417_141515.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Kedai Bunda Rachma/Rawon_ Daging_Telur.png (Menu khas dengan tampilan lengkap)
+
+## 9. Mie Ayam dan Pasta Berkah
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Fettucini_Bologhnise.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Fusili_Bologhnise.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Bakso_Pangsit.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Bakso_Pangsit_Double.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Lada_Hitam.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Pangsit.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Pangsit_Double.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Spaghetti_Bologhinise.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Yamin_Bakso_Pangsit.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Yamin_Bakso_Pangsit_Double.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Yamin_Pangsit.png
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/20250417_141417.jpg
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/20250417_141430.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Mie Ayam dan Pasta Berkah/Mie_Ayam_Bakso_Pangsit.png (Menu signature dengan tampilan lengkap)
+
+## 10. Pawon Bu Ina Kantin PNJ
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Cheese_Burger.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Hamburger.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Nasi_Putih.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Ayam_Bakar.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Ayam_Geprek.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Ayam_Pedes_Manis.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Chicken_Katsu.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Friend_Chicken.png
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/20250417_141602.jpg
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/20250417_141614.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Pawon Bu Ina Kantin PNJ/Paket_Nasi_Ayam_Geprek.png (Menu populer dengan tampilan menarik)
+
+## 11. Taichan Mama Ika
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Bumbu_Kacang_+_Nasi___Lontong(1).jpg
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Bumbu_Kacang_+_Nasi___Lontong.jpeg
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Bumbu_Kacang_+_Nasi___Lontong.jpg
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Taichan_+_Nasi___Lontong.jpg
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Taichan_+_Nasi___Lontong.png
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/20250417_140914.jpg
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/20250417_140927.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Taichan Mama Ika/Sate_Taichan_+_Nasi___Lontong.png (Menu signature dengan tampilan jelas)
+
+## 12. Aneka Juice
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Good_Day_Oreo.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Alpukat.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Apel.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Jambu.png
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Jeruk.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Mangga.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Melon.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Mix_(Mangga_+_Naga).jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Mix_(Sirsak_+_Jeruk).jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Naga.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Pisang.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Sirsak.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Stroberi.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Stroberi_+_Susu_Dancow.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Terong_Belanda.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Tomat.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Wortel.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Susu_Dancow_Vanilla_dan_Oreo.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/20250417_141119.jpg
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/aneka_juice_KRIS.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Aneka Juice/Jus_Jambu.png (Minuman dengan tampilan jelas dan menarik)
+
+## 13. Es Teh Poci
+### Menu Items:
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Milk_Tea_Cappucino.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Milk_Tea_Chocolate.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Milk_Tea_Grape.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Milk_Tea_Original.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Milk_Tea_Taro.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Apel.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Blackcurrant.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Guava.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Lemon.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Lemon_Honey.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Lycheepng.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Mangga.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Orange.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Original.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Thai_Tea.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Vanilla.png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Milk_Tea_Rasa_Apple_(Baru).png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Milk_Tea_Rasa_Blackcurrant_(Baru).png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Milk_Tea_Rasa_Lemon_Honey_(Baru).png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Milk_Tea_Rasa_Mango_(Baru).png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Milk_Tea_Rasa_Orange_(Baru).png
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/20250417_141151.jpg
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/20250417_141157.jpg
+
+### Recommended Thumbnail:
+- FrontEnd/src/assets/[1]Assets/Es Teh Poci/Es_Teh_Poci_Rasa_Thai_Tea.png (Varian populer dengan tampilan menarik)
+
+## Banner Images:
+- FrontEnd/src/assets/banner_1.png
+- FrontEnd/src/assets/banner_2.png
+- FrontEnd/src/assets/banner_login.png
