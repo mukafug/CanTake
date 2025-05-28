@@ -1,6 +1,6 @@
-# CanTake - Dokumentasi Lengkap
+# CanTake - Docs
 
-## 1. 🎯 Perkenalan
+## 1. 🎯 About
 
 **CanTake** adalah aplikasi web untuk pesan makanan dari kantin kampus. Mahasiswa bisa lihat menu warung-warung dan pesan makanan untuk diambil sendiri (tidak ada delivery).
 
