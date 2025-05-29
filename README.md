@@ -6,6 +6,9 @@
 
 **CanTake** adalah aplikasi web untuk pesan makanan dari kantin kampus. Mahasiswa bisa lihat menu warung-warung dan pesan makanan untuk diambil sendiri (tidak ada delivery).
 
+
+**🚀 Demo Aplikasi:** [Lihat Demo Langsung CanTake](https://cantake-worker.mkafstudio.workers.dev/)
+
 ### ✨ Fitur Utama
 - **🏪 Dashboard Toko**: Bisa lihat warung dan menu tanpa login dulu
 - **🔐 Login System**: Harus login kalau mau pesan makanan
